@@ -1,0 +1,22 @@
+{
+  "name": "sis",
+  "version": "1.0.0",
+  "description": "student management ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarukodes/sis.git"
+  },
+  "author": "prabincankod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarukodes/sis/issues"
+  },
+  "homepage": "https://github.com/Sarukodes/sis#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
